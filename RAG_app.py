@@ -1,5 +1,5 @@
 import streamlit as st
-from dotenv importload_dotenv
+from dotenv import load_dotenv
 import as
 from langchain_groq import ChatGroq
 from langchain.text_splitter import RecursiveCharacterSplitter
