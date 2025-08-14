@@ -6,5 +6,5 @@ langchain-community
 langchain-text-splitters
 langchain-huggingface
 faiss-cpu
-pyod
+pypdf
 sentence-transformers
