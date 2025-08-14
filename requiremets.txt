@@ -1,1 +1,11 @@
-
+# Libraries required for building the project:
+streamlit
+python-dotenv
+langchain
+langchain-groq
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+faiss-cpu
+pyod
+sentence-transformers
